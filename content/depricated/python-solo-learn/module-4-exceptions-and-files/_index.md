@@ -3,12 +3,12 @@ _db_id: 526
 content_type: topic
 prerequisites:
   hard:
-  - topics/solo-learn/python/module-3-functions-and-modules
+  - depricated/python-solo-learn/module-3-functions-and-modules
   soft: []
 ready: true
 tags:
 - python
-title: Solo Learn - Python - Module 4 - Exceptions and Files
+title: Solo Learn - Python - Module 4 - Exceptions and Files - Deprecated
 topic_needs_review: false
 ---
 
